@@ -1,0 +1,28 @@
+.name-wrapper-div {
+    display: flex;
+     width: fit-content;
+     align-items: start;
+     padding:0px 0px 10px;
+}
+.name-pre-line {
+    height: 1px; width: 20px; background-color: #1393b7;
+}
+.name-txt {
+    padding-left: 5px;
+     margin: 0px;
+     background-color:#1393b7;
+     color:black;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     border-radius:5px;
+     padding:5px 10px;
+     font-weight:700
+}
+.plus-minus{
+    display:inline;
+    padding-left:5px;
+    color:white;
+    font-size:20px;
+    font-weight:700
+}
